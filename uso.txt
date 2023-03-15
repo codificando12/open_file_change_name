@@ -1,0 +1,26 @@
+Primer paso:
+Bajate Python 3.11 Bug Fix desde https://www.python.org/downloads/
+
+segundo paso:
+instala python
+
+tercer paso:
+bajate Visual studio code desde https://code.visualstudio.com/download
+
+cuarto paso:
+abrir archivo 'main.py' con Visual Studio Code.
+
+quinto paso:
+Abrir una terminal nueva (arriba a la derecha donde dice 'Terminal')
+
+
+sexto paso:
+escribir en la terminal:
+pip install tranlate
+
+septimo paso:
+escribir el directorio donde estan los archivos en en archivo main.py LINEA 4
+
+octavo paso:
+ejecutar el script
+
