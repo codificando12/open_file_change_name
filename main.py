@@ -11,11 +11,8 @@ for name in os.listdir():
     print(trans_name)
     translation = translator.translate(trans_name)
     print(translation)
-    
-    # translated_name = translator.translate(trans_name, dest="en")
     dst = translation +'.'+divide_name[1]
-    # dst = translated_name +'.docx'
-    os.rename(src, dst)
+    os.rename(src, dst) 
     
 
 
